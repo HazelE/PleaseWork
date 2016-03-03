@@ -12,6 +12,7 @@
 		5572CFB91C88E2D100F3D256 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5572CFB71C88E2D100F3D256 /* Main.storyboard */; };
 		5572CFBB1C88E2D100F3D256 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5572CFBA1C88E2D100F3D256 /* Assets.xcassets */; };
 		5572CFBE1C88E2D100F3D256 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5572CFBC1C88E2D100F3D256 /* LaunchScreen.storyboard */; };
+		5572CFC61C88E2ED00F3D256 /* WriteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5572CFC51C88E2ED00F3D256 /* WriteView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5572CFBA1C88E2D100F3D256 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5572CFBD1C88E2D100F3D256 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5572CFBF1C88E2D100F3D256 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5572CFC51C88E2ED00F3D256 /* WriteView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WriteView.swift; path = ../WriteView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				5572CFB31C88E2D100F3D256 /* AppDelegate.swift */,
 				5572CFB51C88E2D100F3D256 /* ViewController.swift */,
+				5572CFC51C88E2ED00F3D256 /* WriteView.swift */,
 				5572CFB71C88E2D100F3D256 /* Main.storyboard */,
 				5572CFBA1C88E2D100F3D256 /* Assets.xcassets */,
 				5572CFBC1C88E2D100F3D256 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				5572CFB61C88E2D100F3D256 /* ViewController.swift in Sources */,
 				5572CFB41C88E2D100F3D256 /* AppDelegate.swift in Sources */,
+				5572CFC61C88E2ED00F3D256 /* WriteView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
